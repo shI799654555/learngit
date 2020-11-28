@@ -1,0 +1,19 @@
+b_customer_company_name  	联营公司客户名称
+b_customer_company_id	联营公司客户id
+
+测试计划中的变量
+domain	staging.0so.cn
+partner_uri	partner.staging.0so.cn
+accounting_uri	accounting.staging.0so.cn
+product_uri	product.staging.0so.cn
+order_uri	order.staging.0so.cn
+inquiry_uri	inquiry.staging.0so.cn
+cookie	042223bb-282e-4f84-a993-6e6118a8e4e6
+b_current_company_id	2
+b_current_user_id	87475
+b1_current_company_id	31006
+b1_current_user_id	87492
+zns_current_company_id	9428
+zns_current_user_id	87473
+0sou_account_company_id	39567
+0sou_account_user_id	87472
